@@ -12,7 +12,6 @@ Welcome to the States DAO resources.
 ## Ethereum
 - [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
 - [CryptoZombies](https://cryptozombies.io/)
-
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Solidity by Example](https://solidity-by-example.org/)
 - [Capture the Ether](https://capturetheether.com/)
