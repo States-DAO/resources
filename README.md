@@ -33,6 +33,14 @@ Welcome to the States DAO resources.
 - [Learn Terra](https://learnterra.io/)
 - [Figment Learn | Terra](https://learn.figment.io/protocols/terra)
 
+## Near
+- [Near develop Docs](https://docs.near.org/ko/docs/develop/basics/getting-started)
+- [Near University](https://www.near.university/)
+- [Near Academy](https://near.academy/)
+- [Figment Learn | Near](https://learn.figment.io/protocols/near)
+- [Near Examples](https://examples.near.org/)
+- [Near in Minutes](https://near-in-minutes.com/)
+
 
 ## Contributing
 Please check our contributing guidelines in [CONTRIBUTING.md](./CONTRIBUTING.md).
