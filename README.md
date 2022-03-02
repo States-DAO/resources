@@ -41,6 +41,16 @@ Welcome to the States DAO resources.
 - [Near Examples](https://examples.near.org/)
 - [Near in Minutes](https://near-in-minutes.com/)
 
+## Solana
+- [Solana Cookbook](https://solanacookbook.com/#contributing)
+- [SolDev](https://soldev.app/?utm_source=solana.com)
+- [Solana Docs](https://docs.solana.com/?utm_source=solana.com)
+- [Metaplex Docs](https://docs.metaplex.com/?utm_source=solana.com)
+- [Figment Learn | Solana](https://learn.figment.io/protocols/solana)
+- [Questbook x Superteam - Start Building on Solana](https://www.startonsolana.com/)
+- [Intro to Building Solana Programs](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
+- [A Guide to Full Stack Development on Solana](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+- [Intro to Solana Blockchain Concepts](https://2501babe.github.io/posts/solana101.html)
 
 ## Contributing
 Please check our contributing guidelines in [CONTRIBUTING.md](./CONTRIBUTING.md).
