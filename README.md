@@ -25,6 +25,9 @@ Welcome to the States DAO resources.
 - [Odyssey](https://www.odysseydao.com/)
     - [Learning Pathways](https://www.odysseydao.com/learn)
 - [useWeb3](https://www.useweb3.xyz/)
+- [ChainShot](https://www.chainshot.com/)
+  - [Introduction to Solidity](https://www.chainshot.com/learn/solidity)
+
 
 ## Terra
 - [Terra Docs](https://docs.terra.money/)
