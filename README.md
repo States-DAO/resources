@@ -29,6 +29,7 @@ A curated list of useful resources related to Web3.
 - [useWeb3](https://www.useweb3.xyz/)
 - [ChainShot](https://www.chainshot.com/)
   - [Introduction to Solidity](https://www.chainshot.com/learn/solidity)
+- [Crypto-Startup-School](https://a16z.com/crypto-startup-school/)
 
 
 ## Terra
