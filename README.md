@@ -1,6 +1,8 @@
 # Resources
 Welcome to the States DAO resources.
 
+A curated list of useful resources related to Web3.
+
 ## Basic
 - [Web3](https://www.useweb3.xyz/guides/what-is-web3)
 - [Smart Contracts](https://ethereum.org/en/smart-contracts/)
@@ -27,11 +29,34 @@ Welcome to the States DAO resources.
 - [useWeb3](https://www.useweb3.xyz/)
 
 ## Terra
-- [Terra Docs](https://docs.terra.money/)
-  - [Build a dApp](https://docs.terra.money/docs/develop/dapp/README.html)
-- [Terra Academy](https://academy.terra.money/courses/cosmwasm-smart-contracts-i)
+
+### Docs
+- [Terra Docs](https://docs.terra.money/) - Official Terra documentation
+- [Whitepaper](https://assets.website-files.com/611153e7af981472d8da199c/618b02d13e938ae1f8ad1e45_Terra_White_paper.pdf) - Terra whitepaper
+- [CosmWasm Docs](https://docs.cosmwasm.com/docs) - Official CosmWas Documentation 
+
+### Learn
+- [Terra Docs | Build a dApp](https://docs.terra.money/docs/develop/dapp/README.html) - Guides to setup your environment and build a dApp
+- [Terra Academy](https://academy.terra.money/courses/cosmwasm-smart-contracts-i) - CosmWasm tutorial
 - [Learn Terra](https://learnterra.io/)
-- [Figment Learn | Terra](https://learn.figment.io/protocols/terra)
+- [Figment Learn | Terra](https://learn.figment.io/protocols/terra) - Curated resources for Terra
+
+### Applications
+- [Terraswap](https://terraswap.io/) - A Uniswap-inspired automated market-maker protocol on the Terra blockchain
+- [Astroport](https://astroport.fi/) - AMM/DEX on the Terra blockchain
+- [Mirror](https://www.mirror.finance/) - A DeFi protocol built on the Terra blockchain
+- [Talis Protocol](https://talis.art/) - NFT marketplace on Terra
+- [StartTerra](https://starterra.io/) - The gamified launchpad for Terra
+
+### Tools
+- [Terra Station](https://station.terra.money/) - Web application to interact with Terra Core
+- [Terra Station Wallet](https://chrome.google.com/webstore/detail/terra-station-wallet/aiifbnbfobpmeekipheeijimdpnlpgpp) - Official wallet of the Terra blockchain 
+- [Terra Finder](https://finder.terra.money/) - Official block explorer by Terraform labs
+- [StakeID](https://terra.stake.id/) - Block explorer for Terra
+- [LocalTerra](https://github.com/terra-money/LocalTerra) - An instant, zero-config Terra blockchain and ecosystem
+- [Terra.js](https://github.com/terra-money/terra.js) - JavaScript SDK for Terra
+- [Terra.py](https://github.com/terra-money/terra.py) - Python SDK for Terra
+- [CosmWasm Plus](https://github.com/terra-money/cosmwasm-plus) - Smart contracts under open source licences
 
 ## Near
 - [Near develop Docs](https://docs.near.org/ko/docs/develop/basics/getting-started)
