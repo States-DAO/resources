@@ -27,6 +27,9 @@ A curated list of useful resources related to Web3.
 - [Odyssey](https://www.odysseydao.com/)
     - [Learning Pathways](https://www.odysseydao.com/learn)
 - [useWeb3](https://www.useweb3.xyz/)
+- [ChainShot](https://www.chainshot.com/)
+  - [Introduction to Solidity](https://www.chainshot.com/learn/solidity)
+
 
 ## Terra
 
