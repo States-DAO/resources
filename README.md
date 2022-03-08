@@ -12,25 +12,36 @@ A curated list of useful resources related to Web3.
 - [Decentralized Applications (DApps)](https://ethereum.org/en/developers/docs/dapps/)
 
 ## Ethereum
-- [Ethereum Development Documentation](https://ethereum.org/en/developers/docs/)
-- [CryptoZombies](https://cryptozombies.io/)
-- [Ethernaut](https://ethernaut.openzeppelin.com/)
-- [Solidity by Example](https://solidity-by-example.org/)
-- [Capture the Ether](https://capturetheether.com/)
-- [NFT School](https://nftschool.dev/)
-- [Pointer](https://www.pointer.gg/)
-- [Speedrun Ethereum](https://speedrunethereum.com/)
-- [Buildspace](https://buildspace.so/)
-  - [Build a Web3 App with Solidity + Ethereum Smart Contracts](https://app.buildspace.so/projects/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b)
-- [Questbook](https://www.questbook.app/)
-  - [Build on Ethereum](https://openquest.xyz/tracks/build-on-ethereum)
-- [Odyssey](https://www.odysseydao.com/)
-    - [Learning Pathways](https://www.odysseydao.com/learn)
-- [useWeb3](https://www.useweb3.xyz/)
-- [ChainShot](https://www.chainshot.com/)
-  - [Introduction to Solidity](https://www.chainshot.com/learn/solidity)
-- [Crypto-Startup-School](https://a16z.com/crypto-startup-school/)
 
+### Docs
+- [Ethereum Development Docs](https://ethereum.org/en/developers/docs/) - Official Ethereum documentation
+- [Whitepaper](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_White_Paper_-_Buterin_2014.pdf) - Ethereum whitepaper
+
+### Learn
+- [CryptoZombies](https://cryptozombies.io/) - Learn to make smart contracts in Solidity by making your own crypto-collectibles game
+- [Ethernaut](https://ethernaut.openzeppelin.com/) - A Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine
+- [Solidity by Example](https://solidity-by-example.org/) - Learn smart contract programming using Solidity
+- [Capture the Ether](https://capturetheether.com/) - A game in which you hack Ethereum smart contracts to learn about securit
+- [NFT School](https://nftschool.dev/) - open-source community education on best practices and how-tos for developers in the non-fungible token space
+- [Pointer](https://www.pointer.gg/)
+- [Speedrun Ethereum](https://speedrunethereum.com/) - Build an exchange that swaps ETH to tokens and tokens to ETH
+- [Buildspace | Build a Web3 App with Solidity + Ethereum Smart Contracts](https://app.buildspace.so/projects/CO02cf0f1c-f996-4f50-9669-cf945ca3fb0b) - Build a Web3 App on Ethereum with Solidity and Smart Contracts
+- [Questbook | Build on Ethereum](https://openquest.xyz/tracks/build-on-ethereum) - A Decentralized University where learning is always free
+- [Odyssey | Learning Pathways](https://www.odysseydao.com/learn)
+- [Chainshot](https://www.chainshot.com/learn) - Fast-track your Ethereum Developer career in an instructor-led and challenging bootcamp focused on discussion and application
+- [Crypto-Startup-School](https://a16z.com/crypto-startup-school/) - A series of lectures and discussions given by experts to help technologists learn how to build crypto companies
+
+### Applications
+- [Uniswap Protocol](https://uniswap.org/) - An open-source protocol for providing liquidity and trading ERC20 tokens on Ethereum
+- [OpenSea](https://opensea.io/) - World's first and largest NFT marketplace
+- [Rarible](https://rarible.com/) - Create and sell digital collectibles secured with blockchain
+- [YGG](https://yieldguild.io/) - A play-to-earn gaming guild, bringing players together to earn via blockchain-based economies
+
+### Tools
+- [OpenZeppelin](https://openzeppelin.com/) - A library for secure smart contract development
+- [Truffle](https://trufflesuite.com/) - A development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM)
+- [Hardhat](https://hardhat.org/) - An Ethereum development environment for professionals
+- [Waffle](https://getwaffle.io/) - The framework for testing smart contracts
 
 ## Terra
 
