@@ -17,7 +17,7 @@ A curated list of useful resources related to Web3.
 - [Ethereum Development Docs](https://ethereum.org/en/developers/docs/) - Official Ethereum documentation
 - [Whitepaper](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_White_Paper_-_Buterin_2014.pdf) - Ethereum whitepaper
 
-###Learn
+### Learn
 - [CryptoZombies](https://cryptozombies.io/) - Learn to make smart contracts in Solidity by making your own crypto-collectibles game
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - A Web3/Solidity based wargame inspired on overthewire.org, played in the Ethereum Virtual Machine
 - [Solidity by Example](https://solidity-by-example.org/) - Learn smart contract programming using Solidity
@@ -31,13 +31,13 @@ A curated list of useful resources related to Web3.
 - [Chainshot](https://www.chainshot.com/learn) - Fast-track your Ethereum Developer career in an instructor-led and challenging bootcamp focused on discussion and application
 - [Crypto-Startup-School](https://a16z.com/crypto-startup-school/) - A series of lectures and discussions given by experts to help technologists learn how to build crypto companies
 
-###Applications
+### Applications
 - [Uniswap Protocol](https://uniswap.org/) - An open-source protocol for providing liquidity and trading ERC20 tokens on Ethereum
 - [OpenSea](https://opensea.io/) - World's first and largest NFT marketplace
 - [Rarible](https://rarible.com/) - Create and sell digital collectibles secured with blockchain
 - [YGG](https://yieldguild.io/) - A play-to-earn gaming guild, bringing players together to earn via blockchain-based economies
 
-###Tools
+### Tools
 - [OpenZeppelin](https://openzeppelin.com/) - A library for secure smart contract development
 - [Truffle](https://trufflesuite.com/) - A development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM)
 - [Hardhat](https://hardhat.org/) - An Ethereum development environment for professionals
